@@ -1,1 +1,6 @@
-tet
+body {
+  font-size: 12px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Helvetica', sans-serif;
+}
