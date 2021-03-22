@@ -41,13 +41,13 @@ h1 {
 
 
 .item-title{
-  text-align: right;
   position: absolute;
+  top:0:
   margin-bottom: 60px;
   background-color: #F0FFF0;
-  border: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
-
 
 p {
   margin-top: 18px;
