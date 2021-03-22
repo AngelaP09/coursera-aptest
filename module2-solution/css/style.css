@@ -28,8 +28,9 @@ h1 {
 .item-title{
   text-align: right;
   position: absolute;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
   background-color: #F0FFF0;
+  border: 2px solid black;
 }
 
 .container{
