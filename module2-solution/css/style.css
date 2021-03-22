@@ -47,6 +47,8 @@ h1 {
   background-color: #F0FFF0;
   border-left: 2px solid black;
   border-bottom: 2px solid black;
+  background: green; 
+  padding: 6px 90px;
 }
 
 p {
