@@ -48,7 +48,7 @@ h1 {
   background-color: #F0FFF0;
   border-left: 2px solid black;
   border-bottom: 2px solid black;
-  padding: 6px 0px 6px 30px;
+  padding: 6px 30px 6px 30px;
 }
 
 p {
@@ -58,17 +58,6 @@ p {
   text-align: justify;
   color: black;
 }
-
-#box {
-  background-colour: #D3D3D3;
-  border: 1px solid black;
-}
-
-#content {
-  background-colour: #90EE90;
-  margin: 10px;
-}
-  
 
 
 /********** Large devices only **********/
@@ -158,3 +147,12 @@ p {
     width: 100%;
   }
 }
+
+/*------ Mobile ------*/
+@media (max-width: 767px){
+  .col-lg-4{
+    width: 100%;
+    float: left;
+  }
+}
+
