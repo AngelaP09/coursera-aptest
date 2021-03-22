@@ -20,9 +20,20 @@ h1 {
   text-align:center;
 }
 
+.container{
+ position: relative;
+ top:30px;
+ margin: 15px; 
+}
+
 .menu-h1{
   text-align: center;
   margin-bottom: 30px;
+}
+
+.item {
+ position: relateive;
+ margin-bottom: 30px;
 }
 
 .item-title{
@@ -33,11 +44,6 @@ h1 {
   border: 2px solid black;
 }
 
-.container{
- position: relative;
- top:30px;
- margin: 15px; 
-}
 
 p {
   border: 1px solid black;
