@@ -42,9 +42,9 @@ h1 {
 
 
 .item-title{
+  position: absolute;
   top:0;
   right:0;
-  position: absolute;
   margin-bottom: 60px;
   background-color: #F0FFF0;
   border-left: 2px solid black;
